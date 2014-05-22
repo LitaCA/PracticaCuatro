@@ -27,7 +27,7 @@ namespace PracticaProducto
 				
 			}
 			
-			Console.WriteLine("\n*****************************\n ");
+			Console.WriteLine("\n******************************\n ");
 			Console.WriteLine("\nLos productos ingresados son:\n ");
 			for (int x=0; x<3; x++)
 			{
@@ -38,7 +38,7 @@ namespace PracticaProducto
 				Console.WriteLine("\n"); 		
 			}
 				
-			Console.Write("Presiona una tecla para terminar... ");
+			Console.Write("Presiona una tecla para salir del programa... ");
 			Console.ReadKey(true);
 		}
 	}
